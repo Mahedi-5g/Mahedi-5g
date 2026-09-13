@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mahedi-5g&theme=onedark&column=6" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mahedi-5g&theme=tokyonight&column=6" alt="trophies" />
   </a>
 </p>
 
@@ -16,11 +16,44 @@
 ### 🚀 About Me
 
 - 🔭 **Current Focus:** Building **[Blood Connect](https://github.com/Mahedi-5g/blood-connect-client)**
-- 🌱 **Learning:** Deep diving into **TypeScript** & Advanced Architecture
+- 🌱 **Learning:** Deep diving into **TypeScript** & Advanced Frontend Architecture
 - 👯 **Collaborating:** Looking to partner on **[mediQueue](https://github.com/Mahedi-5g/mediQueue-client)**
 - 🤝 **Seeking Help:** Open for contributions on **[Blood Connect](https://github.com/Mahedi-5g/blood-connect-client)**
 - 💬 **Ask Me About:** Modern Frontend Development & React/Next.js Ecosystem
 - ⚡ **Fun Fact:** I turn coffee into code and keep the process lighthearted!
+
+---
+
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🩸 Blood Connect</h3>
+      <p align="center">A web application connecting blood donors with seekers efficiently.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Mahedi-5g/blood-connect-client"><b>🔗 Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 mediQueue</h3>
+      <p align="center">Smart healthcare queue management system for medical clinics.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Mahedi-5g/mediQueue-client"><b>🔗 Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -42,7 +75,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Design & Workflow**
+**Tools & Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -50,15 +83,21 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahedi-5g&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mahedi's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahedi-5g&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahedi-5g&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahedi-5g&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahedi-5g&theme=tokyonight&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
